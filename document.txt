@@ -1,0 +1,8 @@
+1.How can acheive json key in local storage?
+ans-
+if you want to npm cmd then first install node.js
+if you want to watch json data in web browser then go to any editor /cmd, and go to path where kept your json file 
+after that start json server (npm install -g json-server) then watch your json file all data through this (json-server --watch db.json).
+
+
+what is webpack?

@@ -1,0 +1,29 @@
+{
+    "products":[
+        {"id":1,"title":"woodland-black-shoes","brand":"woodland","price":"5319.00","imageurl":"/images/woodland-black-shoes.jpeg"},
+        {"id":2,"title":"adidas running shoes","brand":"adidas","price":"3319.00","imageurl":"/images/adidas running shoes.png"},
+        {"id":3,"title":"men-27s-adidas-originals","brand":"adidas","price":"4200.00","imageurl":"/images/men-27s-adidas-originals-x_plr-shoes-500x500.png"},
+        {"id":4,"title":"adidas-nmd-shoes","brand":"adidas","price":"3200.00","imageurl":"/images/adidas-nmd-shoes-500x500.png"},
+        {"id":5,"title":"Lee stylish t-shirt ","brand":"lee","price":"410.00","imageurl":"/images/lee-t-shirt.png"},
+        {"id":6,"title":"Lee men's cotton t-shirt","brand":"lee","price":"599.00","imageurl":"/images/91qpzamLBcL._UL1500_.jpg"},
+        {"id":7,"title":"Lee Men's graphic T-shirt","brand":"lee","price":"649.00","imageurl":"/images/71mOgBffF+L._AC_UL1500_.jpg"},
+        {"id":8,"title":"Lee T-shirt for girl","brand":"lee","price":"469.00","imageurl":"/images/1_914d7a32-96f9-476a-a510-8e544bbbc2b6_1200x1200.jpg"},
+        {"id":9,"title":"Fastrack-sports-watches","brand":"fastrack","price":"2100.00","imageurl":"/images/Fastrack-sports-watches-Fastrack-Sports-SDL861941696-1-5a842.jpg"},
+        {"id":10,"title":"fastrack-ladies-watch","brand":"fastrack","price":"2500.00","imageurl":"/images/fastrack-ladies-watch.jpg"},
+        {"id":11,"title":"fastrack smart watch","brand":"fastrack","price":"3500.00","imageurl":"/images/fastrack smart watch.jpeg"},
+        {"id":12,"title":"Fastrack analogies black","brand":"fastrack","price":"4000.00","imageurl":"/images/NL6078SM01-Ghadiwala-1.jpg"}
+    ],
+    "users":[
+        {"id":1,"name":"sonu","email":"sonu953283@gmail.com","password":12345678},
+        {"id":2,"name":"vihal","email":"vishalpc@gmail.com","password":17256186},
+        {"id":3,"name":"mukul","email":"mukulpat@gmail.com","password":643222526},
+        {"id":4,"name":"sujay","email":"sujaynit@gmail.com","password":672246725},
+        {"id":5,"name":"aman","email":"amansd@gmail.com","password":97653462722},
+        {"id":6,"name":"atif","email":"atifkhan@gmail.com","password":8789928191},
+        {"id":7,"name":"amit","email":"amitamd@gmail.com","password":23461781111}
+    ],
+    "purchased":[
+        {}
+    ]
+    
+}
